@@ -1,6 +1,7 @@
 {
   "name": "kamini-chhabra",
   "version": "0.0.0",
+  "homepage": "https://kamini-c.github.io/kamini-chhabra/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
