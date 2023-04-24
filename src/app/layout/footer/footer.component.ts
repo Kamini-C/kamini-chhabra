@@ -10,7 +10,7 @@ export class FooterComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-        this.loadJsFile("assets/js/main.js");  
+        // this.loadJsFile("assets/js/main.js");  
   }  
   public loadJsFile(url: any) {  
     let node = document.createElement('script');  
